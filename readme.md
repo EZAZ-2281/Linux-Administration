@@ -1,0 +1,1 @@
+Welcome to my repository of notes and commands from the Udemy course [Complete Linux Training Course to Get Your Dream IT Job by Imran Afzal](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job). This repository contains all the Linux commands and concepts I learned and practiced throughout the course.
